@@ -1,16 +1,21 @@
-# title(){return this.options.title||this.options.name}
+# Leads Tracker - Chrome Extension
 
-## Supporting Scrimba
+<br />
+<p align="center">
+  <a href="https://adesuwa-osagie.github.io/leads-tracker/">
+    <img src="icon.png" alt="Logo" width="80" height="80">
+  </a>
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+A chrome extension for saving urls as leads. It is able to grab urls from an active tab in the current window and store them in local storage so they are saved even when the browser is refreshed.
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
 
-	It would also mean the world to us if you share the courses.  
+This project is part of Module 3 of Scrimba's [Frontend Developer Career Path](https://scrimba.com/learn/frontend).
 
-Happy Coding!
+What I reviewed:
+
+* How to make function more dynamic
+* When to use textContent vs innerHTML and the pros and cons of both
+* How to use localStorage and its methods "setItem" and "getItem"
+* What is JSON and its methods "stringify" and "parse"
+* How to use manifest.json and how to add permissions to it
+* How to deploy a chrome extension
